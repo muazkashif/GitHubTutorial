@@ -1,2 +1,1 @@
-# GitHubTutorial
-GitHub for Collaboration On Open Projects
+# BassConnections2023-24
